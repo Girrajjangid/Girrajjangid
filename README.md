@@ -1,4 +1,4 @@
-### Hi there, I'm [GIRRAJ!](). A passionate self-taught Data Scientist. 👋
+### Hi there, I'm [GIRRAJ!](https://github.com/Girrajjangid). A passionate self-taught Data Scientist. 👋
 
 - 🔭 I’m currently be a part of **[Climate-Connect](https://www.climate-connect.com/)**
 - 🌱 I’m still learning. 🤣
@@ -28,7 +28,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/Girrajjangid/Girrajjangid/master/assets/azure.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Girrajjangid/Girrajjangid/master/assets/android_studio.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Girrajjangid/Girrajjangid/master/assets/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Girrajjangid/Girrajjangid/master/assets/arcore.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Girrajjangid/Girrajjangid/master/assets/arcore3.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Girrajjangid/Girrajjangid/master/assets/mongodb2.png"></code>
 
 
