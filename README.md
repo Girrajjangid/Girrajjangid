@@ -36,13 +36,15 @@
 <br />
 
 ### Github Stats:
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Girrajjangid&show_icons=true&include_all_commits=true&theme=dracula"  />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girrajjangid&layout=compact&theme=dracula" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Girrajjangid&repo=Machine-Learning-from-Scratch&theme=dracula" />
+
+[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Girrajjangid&repo=Machine-Learning-from-Scratch&theme=dracula"/>][Machine-Learning-from-Scratch]
 
 <br />
 
-### Connect with me:
+### Connect with me here:
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
@@ -56,3 +58,4 @@
 [kaggle]: https://www.kaggle.com/girraj14581
 [hackerrank]: https://www.hackerrank.com/girraj_jangid_11
 [hackerearth]: https://www.hackerearth.com/@girraj7
+[Machine-Learning-from-Scratch]: https://github.com/Girrajjangid/Machine-Learning-from-Scratch/
