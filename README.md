@@ -1,6 +1,6 @@
 ### Hi there, I'm [GIRRAJ!](https://github.com/Girrajjangid). A passionate self-taught Data Scientist. 👋
 
-- 🔭 Currently calling `model.fit()` at  **[Climate-Connect](https://www.climate-connect.com/)**
+- 🔭 Calling `model.fit()` at  **[Renew Power](https://www.renewpower.in/)** | **[Climate-Connect](https://www.climate-connect.com/)**
 - 🌱 I’m still learning. 🤣
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen music.  
