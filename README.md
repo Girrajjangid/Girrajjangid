@@ -1,9 +1,12 @@
 ### Hi there, I'm [GIRRAJ!](https://github.com/Girrajjangid). A passionate self-taught Data Scientist. 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=girrajjangid&label=Views&color=blue&style=plastic" alt="girrajjangid" /> </p>
+
 - 🔭 Calling `model.fit()` at  **[Renew Power](https://www.renewpower.in/)** | **[Climate-Connect](https://www.climate-connect.com/)**
 - 🌱 I’m still learning. 🤣
-- 🥅 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to listen music.
+- I help tech companies to build their AI-driven products using structured or unstructured data by analyzing the information and implementing end-to-end solutions through new technologies which yield company growth. 
+- 🥅 I would love to contribute on any computer vision, natural language processing, and signal processing project.
+- ⚡ Fun fact: Once upon a time I was a Game Developer.😄
 - Check my [World](https://geet-resume.herokuapp.com/users/Girrajjangid)  
 
 <br />
@@ -39,6 +42,7 @@
 ### Github Stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Girrajjangid&show_icons=true&include_all_commits=true&theme=dracula"  />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girrajjangid&layout=compact&theme=dracula" />
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Girrajjangid&repo=Machine-Learning-from-Scratch&theme=dracula"/>][Machine-Learning-from-Scratch]
@@ -60,3 +64,15 @@
 [hackerrank]: https://www.hackerrank.com/girraj_jangid_11
 [hackerearth]: https://www.hackerearth.com/@girraj7
 [Machine-Learning-from-Scratch]: https://github.com/Girrajjangid/Machine-Learning-from-Scratch/
+
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+
+
+
