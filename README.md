@@ -6,7 +6,7 @@ Passionate Data Scientist | ML Engineer
 
 I help tech companies to build their AI-driven products using structured or unstructured data by analyzing the information & implementing end-to-end AI solutions through new technologies which yield company growth.
 
-* 🔭  Calling `model.fit()` at  **[Renew Power](https://www.renewpower.in/)**
+* 🔭  Calling `model.fit()` at  **[Koantek](https://www.koantek.com//)**
 * 🌍  I'm based in Jaipur, Rajasthan
 * ✉️  You can contact me at [girraj.jangid.14581@gmail.com](mailto:girraj.jangid.14581@gmail.com)
 * 🧠  I'm currently learning LLM Applications for production.
